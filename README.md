@@ -6,7 +6,7 @@
 
 ## **Exercise 1: Blink an LED using Wokwi Simulator for Raspberry Pi Pico**
 Link to the exercise:
-	https://wokwi.com/projects/343525071518696020
+	https://wokwi.com/projects/343534680223515220
   
 * Exercise 1.1: Use gpio_init that programs GPIO pin to LED_PIN
 
@@ -62,7 +62,7 @@ Link to the exercise:
 We will be doing this exercise in an online tool called Compiler Explorer. All the required libraries and skeleton code is setup for you at the link below.
 
 Follow along here:
-	https://godbolt.org/z/YvKM6Mxcs 
+	https://godbolt.org/z/ha48z9zx5
 	
 GOAL: Develop an API for gpio_set_dir(uint gpio, bool direction)
 
@@ -101,10 +101,10 @@ gpio_oe = 0x5 [101 in binary] means:
 # Answer Keys
   * ***Wokwi Exercise*** 
   
-    https://wokwi.com/projects/342301731204366931
+    https://wokwi.com/projects/343538734224900691
   
   * ***Compiler Explorer Exercise***
   
-    https://godbolt.org/z/1s9M4v19c 
+    https://godbolt.org/z/cvKjPTjz8 
     
 <br>
